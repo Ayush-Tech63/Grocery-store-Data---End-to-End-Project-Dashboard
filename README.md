@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard built using a Swiggy Ins
 
 The goal of this project is to demonstrate data visualization, dashboard design, and business insights extraction using Power BI.
 
-Dashboard Preview
+# Dashboard Preview
 
 Key Insights
 KPI Metrics
@@ -17,7 +17,7 @@ Sales Insights
 Highest sales come from Tier 3 cities (472K).
 Tier 1 cities show comparatively lower total sales.
 Sales trend shows a decline in 2024 compared to 2021–2023.
-Category Performance
+# Category Performance
 
 Top performing categories:
 
@@ -37,7 +37,8 @@ City tier analysis
 Shop type performance summary
 Year-wise shop opening trend
 Clean and professional UI design
-Tools & Technologies Used
+
+# Tools & Technologies Used
 Power BI
 Data Cleaning
 Data Visualization
@@ -47,7 +48,7 @@ How to Use
 Download the .pbix file from this repository.
 Open the file in Power BI Desktop.
 Use filters to explore insights.
-Project Purpose
+# Project Purpose
 
 This project is part of my learning journey in Power BI and SQL and demonstrates my ability to:
 
