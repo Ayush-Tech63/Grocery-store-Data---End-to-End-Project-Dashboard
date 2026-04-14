@@ -1,5 +1,4 @@
-# ![Final Dashboard](https://github.com/user-attachments/assets/ee27b42e-5ea0-48d7-8fb7-8c9acbe5cc3b)
-Swiggy Instamart Sales Dashboard (Power BI Project)
+# Swiggy Instamart Sales Dashboard (Power BI Project)
 Project Overview
 
 This project presents an interactive Power BI dashboard built using a Swiggy Instamart dataset. The dashboard provides insights into sales performance, customer behavior, order trends, and category-wise performance.
